@@ -3,6 +3,6 @@
 <p>-html</p>
 <p>-css</p>
 <p>-JavaScript</p>
-<a href:"https://leagueoflengensloginpage.netlify.app">link do projeto</a>
+<a href="https://leagueoflengensloginpage.netlify.app">Link do Projeto</a>
 
 
